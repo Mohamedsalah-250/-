@@ -131,7 +131,7 @@ animation:blink 2s infinite;
 <h1>عيد أضحى مبارك</h1>
 
 <div class="subtitle">
-إلى الأهل والأقارب والمعارف والأحباب ❤️
+
 </div>
 
 <div class="message">
